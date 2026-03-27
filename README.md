@@ -104,7 +104,9 @@
 ---
 
 ## 📫 Contact
-
+<a href="https://linkedin.com/in/daniel-viana-3383783b7/" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 <div align="center">  
 <a href="https://www.instagram.com/danmilithi" target="_blank">
   <img src="https://img.shields.io/badge/-danmilithi-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
